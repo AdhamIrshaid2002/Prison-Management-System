@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "879229016696",
+    "project_id": "police-412dd",
+    "storage_bucket": "police-412dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879229016696:android:0182820a57e2c055a06b8d",
+        "android_client_info": {
+          "package_name": "com.example.police"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANIMpSmrDmt02nRfT72NyBKzl2iX3n6z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
